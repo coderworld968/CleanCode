@@ -14,4 +14,4 @@
 >在非聚合业务中,不直接使用new构建,将依赖构建与逻辑代码分离
    也是常说的开闭原则,对扩展开发,对修改关闭
 
-![公众号](log.png)
+![公众号](https://github.com/coderworld968/CleanCode/blob/master/log.png)
